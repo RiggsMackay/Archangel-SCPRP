@@ -1,0 +1,7 @@
+"scprp"
+{
+	"base" 			"helix"
+	"title" 		"SCP-RP"
+	"author" 		"Riggs"
+	"menusystem"	"1"
+}
